@@ -1,0 +1,11 @@
+Model Information:
+* title:	Giganotosaurus
+* source:	https://sketchfab.com/3d-models/giganotosaurus-a19074c7a9944c648ee634599b25afd3
+* author:	kenchoo (https://sketchfab.com/kenchoo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Giganotosaurus" (https://sketchfab.com/3d-models/giganotosaurus-a19074c7a9944c648ee634599b25afd3) by kenchoo (https://sketchfab.com/kenchoo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
