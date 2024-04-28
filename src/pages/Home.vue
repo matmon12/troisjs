@@ -405,4 +405,8 @@ const changeScene = () => {
 }
 </style>
 
-<style lang="scss"></style>
+<style lang="scss">
+canvas{
+  width: 100%;
+}
+</style>
