@@ -1,0 +1,58 @@
+{
+  "hash": "cfd39b53",
+  "configHash": "dc334746",
+  "lockfileHash": "ea33dd2f",
+  "browserHash": "65c0f303",
+  "optimized": {
+    "vue": {
+      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "685a4ea8",
+      "needsInterop": false
+    },
+    "pinia": {
+      "src": "../../node_modules/pinia/dist/pinia.mjs",
+      "file": "pinia.js",
+      "fileHash": "da363439",
+      "needsInterop": false
+    },
+    "@formkit/auto-animate/vue": {
+      "src": "../../node_modules/@formkit/auto-animate/vue/index.mjs",
+      "file": "@formkit_auto-animate_vue.js",
+      "fileHash": "6ed14587",
+      "needsInterop": false
+    },
+    "primevue/config": {
+      "src": "../../node_modules/primevue/config/config.esm.js",
+      "file": "primevue_config.js",
+      "fileHash": "2cbbd0c4",
+      "needsInterop": false
+    },
+    "vue-query": {
+      "src": "../../node_modules/vue-query/esm/index.js",
+      "file": "vue-query.js",
+      "fileHash": "ad16962d",
+      "needsInterop": false
+    },
+    "troisjs": {
+      "src": "../../node_modules/troisjs/build/trois.module.js",
+      "file": "troisjs.js",
+      "fileHash": "80357572",
+      "needsInterop": false
+    },
+    "animejs/lib/anime.es.js": {
+      "src": "../../node_modules/animejs/lib/anime.es.js",
+      "file": "animejs_lib_anime__es__js.js",
+      "fileHash": "3168999e",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-EWG5TRLO": {
+      "file": "chunk-EWG5TRLO.js"
+    },
+    "chunk-ZS7NZCD4": {
+      "file": "chunk-ZS7NZCD4.js"
+    }
+  }
+}
